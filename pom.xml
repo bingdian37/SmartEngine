@@ -290,7 +290,7 @@
             <dependency>
                 <groupId>org.aspectj</groupId>
                 <artifactId>aspectjrt</artifactId>
-                <version>1.7.4</version>
+                <version>1.9.6</version>
                 <scope>provided</scope>
             </dependency>
 
