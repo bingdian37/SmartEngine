@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.esotericsoftware</groupId>
             <artifactId>reflectasm</artifactId>
-            <version>1.11.3</version>
+            <version>1.11.9</version>
             <classifier>shaded</classifier>
             <exclusions>
                 <exclusion>
